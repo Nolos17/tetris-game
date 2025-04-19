@@ -2,18 +2,6 @@
 
 ¡Un clásico juego de Tetris desarrollado con Vite! 🚀 Disfruta de un diseño responsivo, piezas coloridas, sistema de puntuación y un modal de fin de juego. Incluye una imagen de fondo personalizada y un título centrado para una experiencia inmersiva. 🖼️
 
-## 📋 Tabla de Contenidos
-
-- [✨ Características](#características)
-- [🛠️ Tecnologías Usadas](#tecnologías-usadas)
-- [📸 Capturas de Pantalla](#capturas-de-pantalla)
-- [🔧 Instalación](#instalación)
-- [🚀 Ejecutar el Proyecto](#ejecutar-el-proyecto)
-- [🎲 Instrucciones de Juego](#instrucciones-de-juego)
-- [📂 Estructura del Proyecto](#estructura-del-proyecto)
-- [🤝 Contribuir](#contribuir)
-- [📜 Licencia](#licencia)
-
 ## ✨ Características
 
 - 🧩 Juego clásico de Tetris con las 7 piezas (tetriminos): O, T, S, Z, L, J, I.
@@ -33,10 +21,10 @@
 
 ## 📸 Capturas de Pantalla
 
-![Juego en Acción](screenshots/juego.png)
+![Juego en Acción](capturas/juego1.png)
 _🎮 Pantalla principal con el tablero, puntuación e imagen de fondo._
 
-![Modal de Fin de Juego](screenshots/fin-juego.png)
+![Modal de Fin de Juego](capturas/perdido1.png)
 _🚪 Modal de fin de juego con botón de reinicio._
 
 > **Nota**: Agrega las capturas a la carpeta `screenshots/` y actualiza las rutas si cambias los nombres.
