@@ -27,7 +27,6 @@ _🎮 Pantalla principal con el tablero, puntuación e imagen de fondo._
 ![Modal de Fin de Juego](capturas/perdido1.png)
 _🚪 Modal de fin de juego con botón de reinicio._
 
-> **Nota**: Agrega las capturas a la carpeta `screenshots/` y actualiza las rutas si cambias los nombres.
 
 ## 🔧 Instalación
 
@@ -36,8 +35,8 @@ Sigue estos pasos para configurar el proyecto localmente:
 1. **📥 Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/tetris-vite.git
-   cd tetris-vite
+   git clone https://github.com/Nolos17/tetris-game.git
+   cd tetris-game
    ```
 
 2. **📦 Instalar dependencias**:
