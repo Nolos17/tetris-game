@@ -1,6 +1,6 @@
 # 🎮 Juego de Tetris
 
-¡Un clásico juego de Tetris desarrollado con Vite! 🚀 Disfruta de un diseño responsivo, piezas coloridas, sistema de puntuación y un modal de fin de juego. Incluye una imagen de fondo personalizada y un título centrado para una experiencia inmersiva. 🖼️
+¡Un clásico juego de Tetris programado en JavaScript puro! 🚀 Disfruta de piezas coloridas renderizadas en HTML5 Canvas, movidas con una lógica de colisiones precisa. 🎨💻 Su diseño responsivo, sistema de puntuación dinámico y modal nativo de HTML para el fin de juego ofrecen una experiencia fluida y envolvente. 🎮
 
 ## ✨ Características
 
