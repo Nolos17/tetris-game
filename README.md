@@ -5,9 +5,7 @@
 ## ✨ Características
 
 - 🧩 Juego clásico de Tetris con las 7 piezas (tetriminos): O, T, S, Z, L, J, I.
-- 📱 Diseño responsivo con un título centrado y una imagen de fondo (`fondoTetris.png`).
 - ⭐ Sistema de puntuación en un contenedor estilizado.
-- 🚪 Modal de fin de juego con botón de reinicio.
 - 🎨 Animaciones suaves y sombras para un aspecto moderno.
 - 📲 Adaptado para móviles con estilos optimizados para pantallas pequeñas.
 
